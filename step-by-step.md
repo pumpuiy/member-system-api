@@ -1,4 +1,7 @@
-## 
+## add git
+$git --version
+$git remote add origin https://github.com/pumpuiy/member-system-api.git
+$git push -u origin master
 
 ## install nestjs
 npm install -g @nestjs/cli
